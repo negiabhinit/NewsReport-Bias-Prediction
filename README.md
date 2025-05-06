@@ -1,4 +1,4 @@
-# Article Bias Prediction and Perspective Generation
+# News Report Bias Prediction and New perspective Generation
 
 This project focuses on analyzing political bias in news articles and generating alternative perspectives using machine learning models. It combines classification and text generation capabilities to provide insights into media bias and create balanced viewpoints.
 
@@ -143,9 +143,6 @@ The dataset consists of a total of 37,554 articles. Each article is stored as a 
 12. **bias**: the numeric encoding of the political bias of the article (0, 1, or 2).
 
 The ```./data/splits``` directory contains the two types of splits, as discussed in the paper: **random** and **media-based**. For each of these types, we provide the train, validation and test files that contains the articles' IDs belonging to each set, along with their numeric bias label.
-
-## Code
-Under maintenance. To be available soon.
 
 ## Citation
 
